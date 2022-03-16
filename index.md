@@ -22,7 +22,7 @@ This paper presents a novel attention-based neural network for structured recons
 </div>>
 
 <p>
-<strong>(a)</strong>. The overall architecture of HEAT, which consists of three steps: 1) edge node initialization; 2) edge image feature fusion and edge filtering; and 3) holistic structural reasoning with Transformer decoders.  <strong>(b)</strong>. The image feature fusion module for edge nodes. <strong>(c)</strong>. The edge Transformer decoder. For the geometry-only (geom-only) decoder, \( \boldmath{f} \) is replaced by \( \boldmath{f}_{coord} \) and the image feature fusion module (gray part) is discarded. The add-norm layers in (b) and (c) are omitted for simplicity.
+<strong>(a)</strong>. The overall architecture of HEAT, which consists of three steps: 1) edge node initialization; 2) edge image feature fusion and edge filtering; and 3) holistic structural reasoning with Transformer decoders.  <strong>(b)</strong>. The image feature fusion module for edge nodes. <strong>(c)</strong>. The edge Transformer decoder. For the geometry-only (geom-only) decoder, \( {f} \) is replaced by \( {f}_{coord} \) and the image feature fusion module (gray part) is discarded. The add-norm layers in (b) and (c) are omitted for simplicity.
 </p>
 
 
