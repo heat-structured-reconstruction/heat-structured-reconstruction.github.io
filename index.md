@@ -62,4 +62,4 @@ This paper presents a novel attention-based neural network for structured recons
 
 # Code / Pre-trained Models
 
-Our code and pre-trained models will soon be available on our [Github repo](https://github.com/woodfrog/heat).
+Our code and pre-trained models are available on our [Github repo](https://github.com/woodfrog/heat).
