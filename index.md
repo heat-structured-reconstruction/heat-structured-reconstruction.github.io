@@ -53,11 +53,11 @@ This paper presents a novel attention-based neural network for structured recons
 </div>
 
 
-<!-- # Video -->
+# Video
 
-<!-- <div>
-<iframe width="820" height="492" src="https://www.youtube.com/embed/nlp6EC4D68I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div> -->
+<div>
+<iframe width="820" height="492" src="https://www.youtube.com/embed/0R5Le2lJw-4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 
 # Code / Pre-trained Models
